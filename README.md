@@ -78,7 +78,6 @@ Auto-formats code using simple rules.
   "if (x==1){
      console.log("hi");
 }"
-}
 ```
 
 ---
