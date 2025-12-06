@@ -72,13 +72,13 @@ Auto-formats code using simple rules.
 - Add closing braces if missing
 
 **Example Response:**
-```json
-{
-  "fixed_code": 
-  "if (x==1){
-     console.log("hi");
-}"
+
+```txt
+if (x==1){
+  console.log("hi");
+}
 ```
+
 
 ---
 
